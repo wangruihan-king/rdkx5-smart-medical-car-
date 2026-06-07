@@ -1,0 +1,25 @@
+# OriginCar 智慧医疗竞赛 Python 依赖包
+
+# ROS2 相关
+rclpy
+sensor_msgs
+std_msgs
+nav_msgs
+geometry_msgs
+cv_bridge
+
+# 计算机视觉
+opencv-python>=4.8.0
+pyzbar>=0.1.9
+
+# AI 模型
+ultralytics>=8.0.0
+
+# HTTP 请求
+requests>=2.30.0
+
+# 科学计算
+numpy>=1.24.0
+
+# 其他
+PyYAML>=6.0
